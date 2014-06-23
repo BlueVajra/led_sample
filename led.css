@@ -1,0 +1,26 @@
+#led{
+    top: 500px;
+    left:500px;
+
+    position:relative;
+}
+
+#led div{
+    width:4px;
+    height:4px;
+    position:absolute;
+    border-radius:50%;
+}
+
+.red{
+    background-color:red;
+}
+.blue{
+    background-color:blue;
+}
+.green{
+    background-color:green;
+}
+.blank{
+    background: none;
+}

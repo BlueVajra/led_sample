@@ -1,0 +1,1 @@
+Creating a simple JavaScript LED practice to be possibly used in a warm up.
